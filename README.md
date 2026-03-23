@@ -1,69 +1,88 @@
 # magic-internet 🌐
 
-一份整理优质网络访问资源、工具与节点的合集，帮助你更顺畅地连接全球互联网。
+Curated network connectivity resources and tools for accessing the global internet.
 
 ---
 
-## 📌 项目说明
+## 📌 Project Overview
 
-本项目基于个人长期使用体验，对部分网络访问服务进行整理与记录，仅作为信息分享参考。
+This repository collects and organizes various network connectivity resources, tools, and references based on personal usage experience.
 
-- 所有优惠信息、套餐价格以官网实时内容为准  
-- 本项目不保证服务的长期稳定性或可用性  
-- 请根据自身需求理性选择  
+The goal is to provide a structured overview of available options for different usage scenarios (light usage, high traffic, or high-quality routes).
 
----
-
-## ⚠️ 访问说明（重要）
-
-本仓库不对访问方式做额外适配或说明，所收录链接均为公开地址。
-
-部分服务可能在特定网络环境下无法直接访问，如遇访问受限情况，需自行判断与处理。本项目不提供相关支持。
+- Information is for reference only  
+- Pricing and plans may change over time  
+- Always verify details on the official website  
 
 ---
 
-## 🚀 推荐服务
+## ⚠️ Disclaimer
 
-> 持续更新中…
-
-### 🟢 超低价性价比
-
-| 名称 | 官网 | 最低价格 | 流量 | 推荐指数 | 特点 |
-|------|------|----------|------|----------|------|
-| 慈善机场 | [点击进入](https://xn--30rs3bu7r87f.com/#/register?code=1E9w5Ln4) | ¥13.99/年 | 200GB/月 | ⭐⭐⭐⭐⭐ | 入门低价 / 轻度使用 / 备用选择 |
-| 赔钱机场 | [点击进入](https://xn--mes358aby2apfg.com/register?code=JviSVsCC&cover=sfw) | ¥2.99/月 | 500GB/月 | ⭐⭐⭐⭐☆ | 超低价格 / 高流量 / 日常或备用 |
-| 白嫖机场 | [点击进入](https://yes2.xn--mesv7f5toqlp.biz/register?code=nPEzJNTS) | ¥19/年 | 1000GB/月 | ⭐⭐⭐⭐☆ | 极高流量 / 性价比极高 / 适合重度使用 |
+- This project is for **information sharing and learning purposes only**  
+- It does **not provide any service or guarantee**  
+- All listed resources are publicly available on the internet  
+- Users should evaluate legality, safety, and suitability on their own  
+- The author is not responsible for any consequences resulting from usage  
 
 ---
 
-### 🟡 专线 / 高质量线路（IPLC / IEPL）
+## ⚠️ Access Notice
 
-| 名称 | 官网 | 最低价格 | 流量 | 推荐指数 | 特点 |
-|------|------|----------|------|----------|------|
-| 极连云（IPLC） | [点击进入](https://a0aasff.jilianclou.com/#/?code=lDdrLtKF) | ¥15.5/月 | 100GB/月 | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ | 专线稳定 / 低延迟 / 高质量 |
-| 星梦岛（IEPL） | [点击进入](https://cloudflare01.stardream.co/#/?code=uSjyyGkO) | ¥16/月 | 100GB/月 | ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ | 专线线路 / 稳定性强 / 体验优秀 |
+This repository does not provide any access instructions or environment-specific guidance.
 
----
-
-## ⚠️ 使用说明
-
-- 本项目仅做资源整理与经验分享，不构成任何推荐或担保  
-- 低价服务可能存在波动、限速或调整策略  
-- 专线服务价格较高，但通常提供更稳定的体验  
-- 请勿一次性购买长期套餐  
+Some links may not be directly accessible under certain network conditions.  
+If access is restricted, users should handle it based on their own technical understanding.
 
 ---
 
-## 🧰 常用工具
+## 🚀 Resources
 
-| 工具 | 平台 | 说明 |
-|------|------|------|
-| Clash | Windows / macOS / Android | 主流代理客户端 |
-| V2Ray | 多平台 | 灵活配置 |
-| Shadowrocket | iOS | 简单易用 |
+> Continuously updated
+
+### 🟢 Cost-Effective Options
+
+| Name | Website | Price | Traffic | Rating | Notes |
+|------|--------|-------|---------|--------|------|
+| 慈善机场 | [Visit](https://xn--30rs3bu7r87f.com/#/register?code=1E9w5Ln4) | ¥13.99/year | 200GB/month | ⭐⭐⭐⭐⭐ | Entry-level / Light usage |
+| 赔钱机场 | [Visit](https://xn--mes358aby2apfg.com/register?code=JviSVsCC&cover=sfw) | ¥2.99/month | 500GB/month | ⭐⭐⭐⭐☆ | Cost-effective / Daily or backup |
+| 白嫖机场 | [Visit](https://yes2.xn--mesv7f5toqlp.biz/register?code=nPEzJNTS) | ¥19/year | 1000GB/month | ⭐⭐⭐⭐☆ | High traffic / Value option |
 
 ---
 
-## ⭐ 支持项目
+### 🟡 Dedicated Line (IPLC / IEPL)
 
-如果这个项目对你有帮助，欢迎 Star ⭐
+| Name | Website | Price | Traffic | Rating | Notes |
+|------|--------|-------|---------|--------|------|
+| 极连云 (IPLC) | [Visit](https://a0aasff.jilianclou.com/#/?code=lDdrLtKF) | ¥15.5/month | 100GB/month | ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ | Low latency / Stable |
+| 星梦岛 (IEPL) | [Visit](https://cloudflare01.stardream.co/#/?code=uSjyyGkO) | ¥16/month | 100GB/month | ⭐⭐⭐⭐⭐⭐⭐⭐⭐☆ | Dedicated route / High quality |
+
+---
+
+## 🧠 Notes
+
+- Ratings are based on **personal experience and subjective evaluation**  
+- Low-cost services may change policies or performance over time  
+- Dedicated line services usually provide better stability at higher cost  
+- Avoid long-term subscriptions unless fully verified  
+
+---
+
+## 🧰 Tools
+
+| Tool | Platform | Description |
+|------|----------|------------|
+| Clash | Windows / macOS / Android | Popular client |
+| V2Ray | Multi-platform | Flexible configuration |
+| Shadowrocket | iOS | Lightweight and easy to use |
+
+---
+
+## 🔍 Keywords
+
+proxy, network, connectivity, internet tools, proxy resources, network tools, clash, v2ray
+
+---
+
+## ⭐ Support
+
+If you find this project helpful, feel free to give it a star ⭐
